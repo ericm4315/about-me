@@ -6,16 +6,14 @@ Man from _New York_ is a music producer/video editor and has always been for **~
 --- 
 
 #### Schedule
-<ol>
-    <li>Wake up (8:30)</li>
-    <li>Zoom classes (9:00)</li>
-    <li>Eat Breakfast (12:30)</li>
-    <li>Music Production/Editing (1:30)</li>
-    <li>Cook lunch (3:00)</li>
-    <li>Homework (6:00)</li>
-    <li>Eat Dinner (8:00)</li>
-    <li>Sleep (10:00 - 11:00)</li>
-</ol>
+1. Wake up (8:30)
+2. Zoom classes (9:00)
+3. Eat Breakfast (12:30)
+4. Music Production/Editing (1:30)
+5. Cook lunch (3:00)
+6. Homework (6:00)
+7. Eat Dinner (8:00)
+8. Sleep (10:00 - 11:00)
 
 #### Projects:
 * Call to Action 
