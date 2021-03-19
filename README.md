@@ -5,7 +5,7 @@ Man from _New York_ is a music producer/video editor and has always been for **~
 
 --- 
 
-<p>Schedule</p>
+#### Schedule
 <ol>
     <li>Wake up (8:30)</li>
     <li>Zoom classes (9:00)</li>
@@ -16,3 +16,9 @@ Man from _New York_ is a music producer/video editor and has always been for **~
     <li>Eat Dinner (8:00)</li>
     <li>Sleep (10:00 - 11:00)</li>
 </ol>
+
+#### Projects:
+* Call to Action 
+* Call to Action (Ft. SFD) (Unofficial)
+* Mercanaries EP
+* Creeper Mode 3 (Trap 4 ID)
